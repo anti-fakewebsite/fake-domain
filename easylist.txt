@@ -1,0 +1,22 @@
+!Title: fake-telegram
+!Version: 0
+!Homepage: https://github.com/anti-fakewebsite/fake-telegram/
+!!!This list only applies to "AdGuard Home".
+!Total lines: 17
+||telegrem.org^
+||tcgnclibk.xyz^
+||telegramstr.com^
+||telegramv.com^
+||telegramim.org^
+||teleylc.com^
+||teleylm.com^
+||telegrcn.com^
+||telepang.com^
+||telegramos.org^
+||telegvam.org^
+||telegramyy.com^
+||telegram-china.org^
+||teledai.com^
+||telegramim.org^
+||telegmcn.org^
+||telegram-cn.org^
