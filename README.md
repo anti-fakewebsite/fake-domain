@@ -4,4 +4,4 @@
 
 | 文件 	| 原始地址 	| CDN地址 	| 适用于 	|
 | --------------------------------	|:------------------:	| ----------------	|---------------------------------------------	|
-| `easylist.txt` 	| [githubusercontent](https://raw.githubusercontent.com/anti-fakewebsite/fake-telegram/main/easylist.txt) 	| [jsdelivr](https://cdn.jsdelivr.net/gh/anti-fakewebsite/fake-telegram/easylist.txt)	| AdGuardHome（DNS过滤） 	|
+| `easylist.txt` 	| [githubusercontent](https://raw.githubusercontent.com/anti-fakewebsite/fake-telegram/main/easylist.txt) 	| [jsdelivr](https://fastly.jsdelivr.net/gh/anti-fakewebsite/fake-telegram/easylist.txt)	| AdGuardHome（DNS过滤） 	|
