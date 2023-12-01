@@ -2,7 +2,8 @@
 !Version: 2
 !Homepage: https://github.com/anti-fakewebsite/fake-domain/
 !!!This list only applies to "AdGuard Home".
-!Total lines: 18
+!Total lines: 35
+!telegram
 ||telegrem.org^
 ||tcgnclibk.xyz^
 ||telegramstr.com^
